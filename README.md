@@ -1,4 +1,4 @@
-<img src="https://github.com/MandyHPNguyen/mGarage4images/blob/cf700ddf04e28bbc0125d8fb1108eab111ca9a54/mandy-logo/MandyHPNguyen_full_intro_red_banner.gif"></img>
+<img src="https://github.com/MandyHPNguyen/mGarage4images/blob/95e9a399e11577cdbb634e13d2ca862c642d7479/mandy-logo/MandyHPNguyen_black_gif_banner.gif"></img>
 
 
 <div align="center">
