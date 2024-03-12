@@ -14,10 +14,13 @@
 
 <p></p><p></p><p></p>
 
-✔ Current Project in Development: [💉 Covid-19 3-Year Look Back](https://github.com/users/MandyHPNguyen/projects/3)
+## Current Projects
+
+💉 Covid-19 3-Year Look Back: [Development & Timeline](https://github.com/users/MandyHPNguyen/projects/3)
 
 
 
+## Contacts
 
 🌐 Website: [www.MandyHPNguyen.com](https://bit.ly/Web_MHPN?utm_source=github&utm_medium=github-about&utm_campaign=oppo24&utm_id=app24ds-web&utm_content=home)
 
