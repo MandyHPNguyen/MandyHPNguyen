@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-💉 Covid-19 3-Year Look Back: [Development & Timeline](https://github.com/users/MandyHPNguyen/projects/3)
+💉 **Covid-19 3-Year Look Back**: [Project Details](https://github.com/MandyHPNguyen/covid-19-stats) __|__ [*Development Plan & Timeline*](https://github.com/users/MandyHPNguyen/projects/3)
 
 
 
