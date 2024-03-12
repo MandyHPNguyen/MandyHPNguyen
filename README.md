@@ -2,6 +2,14 @@
 -->
 
 <div align="center">
+	<br>
+	<a href="www.MandyHPNguyen.com](https://bit.ly/Web_MHPN?utm_source=github&utm_medium=github-about&utm_campaign=oppo24&utm_id=app24ds-web&utm_content=home">
+		<img src="styles/banner.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
+
+<div align="center">
     <a rel="nofollow" href="https://rebrand.ly/Mail_MHPN?utm_source=github&utm_medium=github-about&utm_campaign=oppo24&utm_id=app24ds-mailto&utm_content=email">
         <img src="https://raw.githubusercontent.com/mandyhpnguyen/mGarage4images/main/shield-badges/Email-mandyhpnguyen-red.svg" alt="Mandy HP Nguyen Email"></a>
     <a rel="nofollow" href="https://bit.ly/LinkedIn_MHPN?utm_source=github&utm_medium=github-about&utm_campaign=oppo24&utm_id=app24ds-linkedin&utm_content=linkedin">
