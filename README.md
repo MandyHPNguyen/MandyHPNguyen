@@ -2,11 +2,11 @@
 -->
 
 <div align="center">
-	<br>
-	<a href="www.MandyHPNguyen.com](https://bit.ly/Web_MHPN?utm_source=github&utm_medium=github-about&utm_campaign=oppo24&utm_id=app24ds-web&utm_content=home">
-		<img src="styles/banner.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
+        <a href="https://bit.ly/Web_MHPN?utm_source=github&utm_medium=github-about&utm_campaign=oppo24&utm_id=app24ds-web&utm_content=home">
+            <img src="styles/banner.svg" 
+                width="100%" height="100%"
+                alt="Click to View My Website">
+        </a>
 </div>
 
 <div align="center">
@@ -18,8 +18,9 @@
         <img src="https://raw.githubusercontent.com/mandyhpnguyen/mGarage4images/main/shield-badges/GitHub-%40MandyHPNguyen-black.svg" alt="Mandy HP Nguyen GitHub"></a>
     <a rel="nofollow" href="https://bit.ly/Medium_MHPN?utm_source=github&utm_medium=github-about&utm_campaign=oppo24&utm_id=app24ds-medium&utm_content=medium">
         <img src="https://raw.githubusercontent.com/mandyhpnguyen/mGarage4images/main/shield-badges/Medium-@MandyHPNguyen-blue.svg" alt="Mandy HP Nguyen Medium"></a>
-    <h1>
-        Welcome to my GitHub page!</h1>
+
+[//]: # (    <h1>Welcome to my GitHub page!</h1>)
+
 </div>
 
 
